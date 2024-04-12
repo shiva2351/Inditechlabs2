@@ -1,0 +1,12 @@
+.soldierpro-card{
+    border:2px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.soldierpro{
+    display: flex;
+    flex-direction: row;
+    border:2px solid blue;
+    height: 100vh;
+}

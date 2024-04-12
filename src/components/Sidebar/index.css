@@ -1,0 +1,15 @@
+
+.sidebar{
+    border:2px solid red;
+    width:20vw;
+}
+.side-ul{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    border:2px solid red;
+    height: 100%;
+}
+.side-li{
+    margin-top: 20vh;
+}

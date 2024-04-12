@@ -1,0 +1,13 @@
+.header{
+    border:2px solid red;
+    width:100vw;
+    display: flex;
+    height: 8vh;
+}
+.header-ul{
+    border:2px solid green;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 50vw;
+}
